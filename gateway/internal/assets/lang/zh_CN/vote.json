@@ -1,9 +1,0 @@
-{
-    "option_choice_max_limit": "多项选择数量不能大于选项数",
-    "end_time_expiration": "请调整投票截止时间",
-    "option_len_max": "选项数超过上限",
-    "option_len_min": "选项数不能低于2个",
-    "hidden_to_user": "投票暂未生效",
-    "hidden_reason_regulation": "投票内容审核异常，需重新修改发布",
-    "option_text_limit": "选项不能超过 :limit 个字符"
-}
