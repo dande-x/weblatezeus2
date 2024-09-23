@@ -1,0 +1,15 @@
+{
+    "obj_mapping": {
+        "topic": "动态",
+        "moment_comment": "评论",
+        "moment": "动态",
+        "video_comment": "评论",
+        "video": "视频",
+        "review_comment": "评论",
+        "review": "评价",
+        "post": "评论"
+    },
+    "empty": {
+        "del_obj": "该内容已被删除"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "tips": "*免费时长最多积攒 :period_peak 小时",
+    "remain": "送 :period_daily 分钟免费时长",
+    "content": "1、每日签到可获取 :period_daily 分钟时长，凌晨 4:00 刷新签到。\n2、免费时长最多累积 :period_peak 分钟。\n3、游戏启动后即开始计算时长。\n4、处于会员状态时，并不会消耗免费时长。"
+}

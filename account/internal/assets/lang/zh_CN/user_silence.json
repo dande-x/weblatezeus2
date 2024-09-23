@@ -1,0 +1,23 @@
+{
+    "reason": {
+        "intl_extremism": "极端主义",
+        "intl_prohibited_content": "违禁品",
+        "intl_sexual_content": "色情",
+        "intl_hate_speech": "人身攻击",
+        "violation_community_rules": "违反社区管理条例",
+        "uncomfortable": "引人不适",
+        "violating_community_norms": "违反社区规范",
+        "vulgar": "色情低俗",
+        "personal_attacks": "人身攻击",
+        "black_product_ads": "黑产广告",
+        "ad_exchange": "广告交易",
+        "bad_conduct": "不良行为",
+        "maliciously_lead_war": "恶意引战",
+        "illegal_prohibited": "违法违禁",
+        "other": "其他",
+        "illegal": "违反taptap社区管理条例行为",
+        "pulp": "低俗、血腥暴力信息",
+        "rubbish": "垃圾广告信息",
+        "hostility": "不友善、攻击性信息"
+    }
+}

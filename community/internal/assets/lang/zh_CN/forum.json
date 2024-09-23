@@ -1,0 +1,13 @@
+{
+    "management": {
+        "other": "其他",
+        "battle": "引战；",
+        "too_early": "发布时间过早；",
+        "involving_infringement": "涉及侵权内容；",
+        "involving_rules": "涉及违反版规；",
+        "involving_ads": "涉及广告、违规内容；"
+    },
+    "permission": {
+        "silence": "你已被论坛管理员禁言"
+    }
+}

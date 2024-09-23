@@ -1,0 +1,11 @@
+{
+    "activity_finished": "活动已结束",
+    "activity_not_start": "活动未开始",
+    "invitation": {
+        "code_notfound": "邀请码错误，请重新填写",
+        "limit_user_helped_count": "已有太多人为你的好友助力，请明日再来哟~",
+        "limit_help_count": "今日助力次数已达上限，明天再来哟~",
+        "already_help_user": "已为该用户助力",
+        "cannot_help_self": "无法为自己助力"
+    }
+}

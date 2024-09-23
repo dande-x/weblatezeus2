@@ -1,0 +1,18 @@
+{
+    "management": {
+        "map": "地图",
+        "poster": "建站器活动页",
+        "custom_url": "自定义 Wiki 链接",
+        "poster_activity": "建站器活动页"
+    },
+    "post": {
+        "contents_image": "[图片]",
+        "contents_video": "[视频]",
+        "contents_vote": "[投票]",
+        "contents_app": "[游戏卡片]",
+        "contents_link_card": "[链接卡片]",
+        "contents_horizontal_rule": "[分割线]",
+        "contents_list": "[列表]",
+        "contents_link": "[链接]"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "score": {
+        "milestone_already_received": "奖励已领取",
+        "milestone_not_condition": "未达到领取条件",
+        "not_enough": "积分不足"
+    },
+    "task": {
+        "limit_ug_target_user_invited": "该用户非目标用户，无法助力",
+        "already_invited": "只能给一人助力，看看其他任务吧",
+        "limit_new_or_not_activity_user_invited": "仅限TapTap新注册用户、或:days天以上未登录老用户可助力",
+        "limit_not_activity_user_invited": "仅限:days天以上未登录TapTap老用户可助力",
+        "limit_new_user_invited": "仅限TapTap新注册用户可助力",
+        "not_invite_self": "不能助力自己",
+        "award_already_received": "奖励已领取",
+        "award_type_not_supported": "奖励类型不支持",
+        "already_finished": "任务已完成",
+        "generate_invite_code_failed": "邀请码生成失败",
+        "expired": "任务已过期",
+        "not_finished": "任务未完成",
+        "not_started": "任务未开始"
+    },
+    "group_buy": {
+        "finish_failed": "组队购买完成失败，请勿重复请求",
+        "already_joined_another_group": "当前已加入其它队伍，请等待5分钟后重试",
+        "already_joined": "当前组队已满，请稍后再试",
+        "others_have_paid": "该组队已成功，请参与其他组队购买",
+        "reward_failed": "奖励发放失败",
+        "not_guest": "不是队员，无法成功组队",
+        "not_host": "不是队长，无法成功组队",
+        "invalid_status": "组队状态不一致，无法成功组队",
+        "group_failed": "组队失败，请勿重复请求",
+        "guest_pay_failed": "队员组队失败，请勿重复支付",
+        "host_pay_failed": "队长组队失败，请勿重复支付",
+        "cannot_join_own_group": "不能参与自己的组队购买",
+        "join_failed": "参与组队购买失败，请重试",
+        "not_found": "没有找到组队购买记录",
+        "expired": "组队购买已过期",
+        "not_started": "组队购买未开始"
+    },
+    "activity_finished": "活动已结束",
+    "activity_not_start": "活动未开始",
+    "network_error": "网络延迟，请重试",
+    "internal": "服务器内部错误"
+}

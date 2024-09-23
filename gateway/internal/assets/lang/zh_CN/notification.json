@@ -1,0 +1,84 @@
+{
+    "bottom": {
+        "text": {
+            "redeem_code": ":code",
+            "game_gift_number": ":code",
+            "game_serial_number": ":code",
+            "game_serial_number_text": "激活码",
+            "game_gift_number_text": "礼包码",
+            "redeem_code_text": "兑换码"
+        },
+        "label": {
+            "redeem_code": "复制",
+            "go_to": "去看看",
+            "play": "立即去玩",
+            "game_gift_number": "复制",
+            "game_serial_number": "复制"
+        }
+    },
+    "prefix": {
+        "text": {
+            "redeem_code": "兑换码",
+            "open_test": "开放测试",
+            "new": "游戏上线",
+            "new_version": "新版上线",
+            "download": "开放下载",
+            "test": "测试资格",
+            "game_gift_number": "礼包码",
+            "game_serial_number": "激活码"
+        }
+    },
+    "title": {
+        "repost": "转发了你的:obj",
+        "collect": ":member 收藏了你的:obj"
+    },
+    "obj_mapping": {
+        "moment": "内容",
+        "video": "内容",
+        "topic": "内容",
+        "creation_comment": "评论",
+        "creation_post": "帖子",
+        "commentary": "评测",
+        "gift": "礼物",
+        "album_comment": "评论",
+        "album": "图片",
+        "moment_comment": "评论",
+        "video_comment": "评论",
+        "review_comment": "评论",
+        "review": "评价",
+        "post": "评论"
+    },
+    "system_sender": {
+        "5": {
+            "goto": "查看抽奖小助手",
+            "name": "TapTap 抽奖小助手"
+        },
+        "6": {
+            "name": "活动通知"
+        },
+        "7": {
+            "name": "创作者运营"
+        },
+        "8": {
+            "name": "编辑精选"
+        }
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "other": ":first 和 :second 等 :count 人"
+    },
+    "message": {
+        "send_need_follow": "互相关注才可发送私信"
+    },
+    "notice": {
+        "content": {
+            "mute": "接收但不提醒 Ta 的消息",
+            "auto": "仅提醒你可能感兴趣的消息",
+            "must": "提醒 Ta 的全部消息"
+        },
+        "label": {
+            "mute": "免打扰",
+            "auto": "个性化",
+            "must": "全部"
+        }
+    }
+}

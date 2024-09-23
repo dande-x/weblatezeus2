@@ -1,0 +1,7 @@
+{
+    "schedule_publish": {
+        "cannot_cancel_already_publish": "已发布的内容无法取消定时发布",
+        "cannot_set_time_already_publish": "已发布的内容无法修改发布时间",
+        "time_min_limit": "只能在当前时间5分钟以后定时发布哦"
+    }
+}

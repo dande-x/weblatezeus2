@@ -1,0 +1,25 @@
+{
+    "welcome": {
+        "title": "Welcome to TapTap"
+    },
+    "unsubscribe": "Unsubscribe",
+    "taptap": {
+        "text": "TapTap is a community and platform designed for you to find new things around video games to fall in love with."
+    },
+    "download_button": {
+        "text": "Download for free"
+    },
+    "confirm_email": {
+        "text1": "Keep your account secure and enjoy a whole new way to discover superb games.",
+        "content_title": "Your new hub to superb games",
+        "content_text3": "Participate in exclusive closed betas only available through TapTap",
+        "content_text2": "Engage with your community whether it be with other gamers or the developers themselves",
+        "content_text1": "Discover new games that we personally curate just for you",
+        "button2": {
+            "text": "Confirm now"
+        },
+        "button1": {
+            "text": "Confirm your account"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "user_already_in_team": "您已在该队伍中",
+    "user_has_team": "您已有队伍，不可以再创建队伍了哦。",
+    "create_condition_not_match": "创建队伍条件不满足",
+    "exist_team": "您已在「:user」的队伍中（队伍人数:count），不可以再接受别人邀请了哦。",
+    "join_condition_not_match": "仅活动期间的平台新用户或14天未登录的用户可以被邀请。<br>去创建自己的队伍邀请好友吧。",
+    "team_not_found": "队伍已解散，再看看别的队伍吧。",
+    "team_is_full": "来晚了，再看看别的队伍吧。",
+    "config_not_found": "活动不存在"
+}

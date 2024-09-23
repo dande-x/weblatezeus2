@@ -1,0 +1,12 @@
+{
+    "required": ":field必填",
+    "field": {
+        "phone_number": "手机号码",
+        "phone_code": "短信验证码",
+        "email_code": "邮件验证码",
+        "email_address": "邮箱地址"
+    },
+    "custom": {
+        "email_address": "请填写正确的邮箱地址"
+    }
+}

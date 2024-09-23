@@ -1,0 +1,95 @@
+{
+    "information": {
+        "platform": "平台",
+        "released_date": "发布时间",
+        "unified_social_credit_identifier": "统一社会信用代码",
+        "developer_legal": "供应商"
+    },
+    "stat": {
+        "followers": "关注",
+        "hits": "热度",
+        "downloads": "下载"
+    },
+    "security_badge": {
+        "has_official": {
+            "label": "官方入驻",
+            "description": "当前游戏有游戏官方入驻，并且管理游戏"
+        },
+        "privacy_compliance": {
+            "description": "经过 TapTap 平台安全团队的隐私监测后，获得隐私合规的安全测试高分",
+            "label": "隐私合规"
+        },
+        "security": {
+            "no_vulnerability": "无漏洞",
+            "no_virus": "无病毒",
+            "description": "经过 TapTap 平台安全团队的50多项检测后，获得安全测试高分",
+            "label": "软件安全"
+        },
+        "fast_login": {
+            "description": "当前游戏支持使用 TapTap 账号授权进入游戏",
+            "label": "快捷登录"
+        },
+        "tap_certificate": {
+            "description": "当前游戏支持使用 TapTap 实名授权进入游戏",
+            "label": "Tap 实名"
+        }
+    },
+    "env_type": {
+        "preview": "先行服",
+        "beta": "测试服"
+    },
+    "app_event": {
+        "livestream": "直播",
+        "event": "活动",
+        "gift_code": "发礼包",
+        "limited_time_discount": "折扣",
+        "limited_time_free": "限免",
+        "recruitment": "招募",
+        "gameplay_reveal": "实机画面",
+        "showcase": "发布会",
+        "reserve": "预约",
+        "update": "更新",
+        "beta": "测试",
+        "debut": "首发"
+    },
+    "button_label": {
+        "pre_download": "预下载",
+        "recruit_test": "报名测试",
+        "has_recruit": "已报名",
+        "participate_test": "参与测试",
+        "device_not_supported": "不支持当前设备",
+        "open_with_sandbox": "开始游戏",
+        "open_with_cloud": "微端下载",
+        "play_booster": "加速"
+    },
+    "announcement_period": {
+        "alter": {
+            "content": "宣发期是游戏早期仅对外公布部分资料的阶段。\n游戏被当做资讯浏览，并未正式上架。因此只可被搜索，无法在排行榜、首页推荐等功能展示。同时不开放评价区，但 Tapper 可以前往论坛参与讨论，表达自己的兴趣和想法。",
+            "title": "什么是游戏宣发期？"
+        }
+    },
+    "accident": {
+        "label": "游戏故障"
+    },
+    "reserve": {
+        "close_auto_download": "关闭Wi-Fi自动下载"
+    },
+    "library": {
+        "discovery": {
+            "status_paid": "付费下载",
+            "status_download": "下载",
+            "status_closed": "仅可关注",
+            "unlimited": "不限",
+            "no_32bits_game_assistant": "无需下载32位助手",
+            "download_local": "可下载到本地",
+            "run_environment": "运行环境",
+            "apk_size": "大小",
+            "tap_feature": "Tap 特色",
+            "category": "分类"
+        }
+    },
+    "highlight": {
+        "no_purchase": "无内购",
+        "no_ad": "无广告"
+    }
+}

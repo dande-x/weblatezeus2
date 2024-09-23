@@ -1,0 +1,11 @@
+{
+    "platform": {
+        "wechat": "微信",
+        "qq": "QQ",
+        "naver": "Naver",
+        "line": "Line",
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Apple"
+    }
+}

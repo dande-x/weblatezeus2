@@ -1,0 +1,18 @@
+{
+    "sentence": {
+        "title_required": "请输入标题",
+        "top_forbidden_for_group_label_isolated": "所属子板块【:name】已设置在首页不显示，不支持论坛置顶",
+        "top_limit": "只允许置顶:number个内容",
+        "pin_video_type_need_pin_video": "请上传视频",
+        "cannot_change_type": "不可以修改类型",
+        "write_something_for_topic_draft": "写点内容再发送吧",
+        "solved_question_cannot_edit": "问题已获得了解答， 无法进行再次编辑。"
+    },
+    "contribute": {
+        "cannot_meet": "未满足申精条件"
+    },
+    "phrase": {
+        "forum_not_support_content_publish": "该论坛暂不支持内容发布",
+        "silence_by_forum_admin": "你已被论坛管理员禁言"
+    }
+}
