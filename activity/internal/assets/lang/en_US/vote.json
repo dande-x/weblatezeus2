@@ -1,0 +1,11 @@
+{
+    "game_award": {
+        "app_not_found": "",
+        "app_voted": "",
+        "exhausted": ""
+    },
+    "no_publish": "",
+    "already_voted": "",
+    "vote_end": "",
+    "vote_not_start": ""
+}

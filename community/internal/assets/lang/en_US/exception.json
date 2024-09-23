@@ -1,0 +1,6 @@
+{
+    "text": {
+        "reached_limit": "It seems you have made too many actions. Please wait for a while and try again."
+    },
+    "forbidden": "You don't have the permission to perform this operation"
+}

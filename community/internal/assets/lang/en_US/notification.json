@@ -1,0 +1,15 @@
+{
+    "obj_mapping": {
+        "topic": "",
+        "moment_comment": "",
+        "moment": "",
+        "video_comment": "",
+        "video": "",
+        "review_comment": "",
+        "review": "",
+        "post": ""
+    },
+    "empty": {
+        "del_obj": ""
+    }
+}

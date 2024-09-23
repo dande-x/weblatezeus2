@@ -1,0 +1,25 @@
+{
+    "welcome": {
+        "title": ""
+    },
+    "unsubscribe": "",
+    "taptap": {
+        "text": ""
+    },
+    "download_button": {
+        "text": ""
+    },
+    "confirm_email": {
+        "text1": "",
+        "content_title": "",
+        "content_text3": "",
+        "content_text2": "",
+        "content_text1": "",
+        "button2": {
+            "text": ""
+        },
+        "button1": {
+            "text": ""
+        }
+    }
+}

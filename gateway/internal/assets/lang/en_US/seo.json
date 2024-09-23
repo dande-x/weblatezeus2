@@ -1,0 +1,23 @@
+{
+    "rankings": {
+        "android": {
+            "intl": {
+                "beta": {
+                    "keywords": "Android Beta Games Rankings in :area, Android Beta Games Recommendation",
+                    "description": "TapTap brings you the Android beta games rankings in :area, the most popular beta games for you on mobile.",
+                    "title": "Android Beta Games Rankings in :area - Android Popular Games Recommendation &#124; TapTap Rankings"
+                },
+                "weekly": {
+                    "description": "TapTap brings you the Android weekly hits rankings in :area, the most popular mobile games for you.",
+                    "keywords": "Weekly Hits Rankings in :area, Android Weekly Hits Recommendation",
+                    "title": "Android Weekly Hits Rankings in :area - Android Popular Games Recommendation &#124; TapTap Rankings"
+                }
+            },
+            "exclusive": {
+                "title": "",
+                "keywords": "",
+                "description": ""
+            }
+        }
+    }
+}

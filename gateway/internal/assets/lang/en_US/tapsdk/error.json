@@ -1,0 +1,61 @@
+{
+    "client_region_mismatch": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "invalid_payment_secret_sign": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "invalid_server_secret_sign": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "invalid_client_token_sign": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "invalid_secret": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "invalid_client_id": {
+        "message": "",
+        "reason": "",
+        "resolution": ""
+    },
+    "invalid_app_bundle_id": {
+        "resolution": "",
+        "reason": "",
+        "message": ""
+    },
+    "invalid_app_package_name_or_sign": {
+        "resolution": "",
+        "reason": "",
+        "message": ""
+    },
+    "client_not_support_sdk_version": {
+        "message": "",
+        "resolution": "",
+        "reason": ""
+    },
+    "description": {
+        "app_info": "",
+        "reason": "",
+        "title": ""
+    },
+    "invalid_app_info": {
+        "resolution": "",
+        "reason": ""
+    },
+    "common": {
+        "app_info": "",
+        "reason": "",
+        "title": ""
+    }
+}

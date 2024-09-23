@@ -1,0 +1,18 @@
+{
+    "sentence": {
+        "title_required": "",
+        "top_forbidden_for_group_label_isolated": "",
+        "top_limit": "",
+        "pin_video_type_need_pin_video": "",
+        "cannot_change_type": "",
+        "write_something_for_topic_draft": "The content cannot be empty",
+        "solved_question_cannot_edit": "This question has been marked as 'Solved' and cannot be edited."
+    },
+    "contribute": {
+        "cannot_meet": "Not qualified for highlights requirements"
+    },
+    "phrase": {
+        "forum_not_support_content_publish": "This Group does not accept new posts",
+        "silence_by_forum_admin": "You are muted by the Group Administrator"
+    }
+}

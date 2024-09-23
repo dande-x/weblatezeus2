@@ -1,0 +1,41 @@
+{
+    "project_name": {
+        "handheld": "",
+        "iosintltest": "",
+        "iosintl": "",
+        "tapintl2test": "",
+        "tapintl2": "",
+        "iosglobaltest": "",
+        "iosglobal": "",
+        "iosintlrocket": "",
+        "iosrocket": "",
+        "tapintlrocket": "",
+        "taprocket": "",
+        "tapitk": "",
+        "iosnow": "",
+        "iosplay": "",
+        "webappintl": "",
+        "webapp": "",
+        "wechat": "",
+        "iostap3": "",
+        "iostap2": "",
+        "iostap": "",
+        "tappad": "",
+        "taptap3": "",
+        "taptap2": "",
+        "taptaptest": "",
+        "taptap": ""
+    },
+    "browser": {
+        "QQBrowser": "QQ Browser",
+        "huaweiBrowser": "HUAWEI browser",
+        "miuiBrowser": "Mi Browser",
+        "quark": "Quark Browser",
+        "ucBrowser": "UC Browser",
+        "baidu": "Baidu Browser",
+        "default": "Browser"
+    },
+    "ios": "",
+    "android": "",
+    "unknown": ""
+}

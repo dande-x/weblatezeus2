@@ -1,0 +1,12 @@
+{
+    "required": "",
+    "field": {
+        "phone_number": "",
+        "phone_code": "",
+        "email_code": "",
+        "email_address": ""
+    },
+    "custom": {
+        "email_address": ""
+    }
+}

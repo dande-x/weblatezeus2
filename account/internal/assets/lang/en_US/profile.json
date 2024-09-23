@@ -1,0 +1,17 @@
+{
+    "under_maintenance_not_support_change": "The feature is under maintenance. You cannot make any modification at this time.",
+    "consignee_address_out_range": "",
+    "consignee_name_out_range": "",
+    "consignee_phone_out_range": "",
+    "violate_forum_rule_retry_later": "",
+    "nickname_out_range": "",
+    "nickname_is_required": "",
+    "limit_field_nickname": "",
+    "limit_field_intro": "",
+    "limit_field_avatar": "",
+    "invalid_arg_mobile": "",
+    "invalid_arg_country": "",
+    "invalid_arg_birthday": "",
+    "intro_out_range": "",
+    "has_update_nickname_retry_after": ""
+}

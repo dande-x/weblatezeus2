@@ -1,0 +1,18 @@
+{
+    "management": {
+        "map": "",
+        "poster": "",
+        "custom_url": "",
+        "poster_activity": ""
+    },
+    "post": {
+        "contents_image": "",
+        "contents_video": "",
+        "contents_vote": "",
+        "contents_app": "",
+        "contents_link_card": "",
+        "contents_horizontal_rule": "",
+        "contents_list": "",
+        "contents_link": ""
+    }
+}

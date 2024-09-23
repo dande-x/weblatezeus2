@@ -1,0 +1,11 @@
+{
+    "activity_finished": "",
+    "activity_not_start": "",
+    "invitation": {
+        "code_notfound": "",
+        "limit_user_helped_count": "",
+        "limit_help_count": "",
+        "already_help_user": "",
+        "cannot_help_self": ""
+    }
+}

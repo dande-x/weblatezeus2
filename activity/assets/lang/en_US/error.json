@@ -1,0 +1,14 @@
+{
+    "score": {
+        "not_enough": ""
+    },
+    "task": {
+        "already_finished": "",
+        "generate_invite_code_failed": "",
+        "expired": "",
+        "not_finished": "",
+        "not_started": ""
+    },
+    "network_error": "",
+    "internal": ""
+}

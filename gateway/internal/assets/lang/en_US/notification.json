@@ -1,0 +1,85 @@
+{
+    "bottom": {
+        "text": {
+            "redeem_code": "Redeem Code",
+            "game_gift_number": "",
+            "game_serial_number": "",
+            "redeem_code_text": "Redeem code",
+            "game_gift_number_text": "Gift code",
+            "game_serial_number_text": "Activation code"
+        },
+        "label": {
+            "play": "Get",
+            "redeem_code": "Copy",
+            "go_to": "",
+            "game_gift_number": "",
+            "game_serial_number": ""
+        }
+    },
+    "system_sender": {
+        "5": {
+            "goto": "",
+            "name": ""
+        },
+        "6": {
+            "name": "Event Alerts"
+        },
+        "7": {
+            "name": "Creator Hub"
+        },
+        "8": {
+            "name": "Editors' Picks"
+        }
+    },
+    "prefix": {
+        "text": {
+            "redeem_code": "Redeem code",
+            "download": "Debut",
+            "test": "Recruitment",
+            "open_test": "Beta",
+            "new": "Debut",
+            "new_version": "Update",
+            "game_serial_number": "Activation code",
+            "game_gift_number": "Gift code"
+        }
+    },
+    "title": {
+        "repost": "",
+        "collect": ":member saved your :obj"
+    },
+    "obj_mapping": {
+        "moment": "",
+        "video": "",
+        "topic": "",
+        "creation_post": "post",
+        "creation_comment": "comment",
+        "commentary": "",
+        "gift": "",
+        "album_comment": "",
+        "album": "",
+        "moment_comment": "",
+        "video_comment": "",
+        "review_comment": "",
+        "review": "",
+        "post": ""
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "one": ":first, :second and :cot other",
+        "other": ":first, :second and :cot others"
+    },
+    "message": {
+        "send_need_follow": ""
+    },
+    "notice": {
+        "content": {
+            "mute": "",
+            "auto": "",
+            "must": ""
+        },
+        "label": {
+            "mute": "",
+            "auto": "",
+            "must": ""
+        }
+    }
+}
