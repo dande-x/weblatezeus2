@@ -1,0 +1,101 @@
+{
+    "device": {
+        "device": {
+            "title": "Device Info",
+            "scene": "",
+            "purpose": ""
+        },
+        "version": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "os": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "profile": {
+        "region": {
+            "title": "Region",
+            "scene": "",
+            "purpose": ""
+        },
+        "birthday": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "gender": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "phone": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "social": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "avatar": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "nickname": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "link_text": "",
+    "uncollected": "",
+    "collected": "",
+    "service": {
+        "collection": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "history": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "order": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "trade": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "identity": {
+        "number": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "name": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    }
+}

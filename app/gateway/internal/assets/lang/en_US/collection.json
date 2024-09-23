@@ -1,0 +1,16 @@
+{
+    "label": {
+        "games_new_releases": "New releases",
+        "games_beta_test": "Beta"
+    },
+    "tag": {
+        "all": "All"
+    },
+    "title": {
+        "games_you_may_like": "Games you may like",
+        "explore_gaming": "Explore gaming",
+        "trending_posts": "Trending posts",
+        "rankings": "Rankings",
+        "hot_collections": "Hot collections"
+    }
+}

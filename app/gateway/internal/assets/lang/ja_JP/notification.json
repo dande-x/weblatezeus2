@@ -1,0 +1,84 @@
+{
+    "bottom": {
+        "text": {
+            "redeem_code": "",
+            "game_gift_number": "",
+            "game_serial_number": "",
+            "redeem_code_text": "引き換えコード",
+            "game_gift_number_text": "ギフトコード",
+            "game_serial_number_text": "アクティベーションコード"
+        },
+        "label": {
+            "play": "入手",
+            "redeem_code": "",
+            "go_to": "",
+            "game_gift_number": "",
+            "game_serial_number": ""
+        }
+    },
+    "prefix": {
+        "text": {
+            "redeem_code": "引き換えコード",
+            "download": "新着",
+            "test": "募集",
+            "open_test": "テスト",
+            "new": "新着",
+            "new_version": "更新",
+            "game_serial_number": "認証コード",
+            "game_gift_number": "ギフトコード"
+        }
+    },
+    "title": {
+        "repost": "",
+        "collect": ":memberさんがあなたの「:obj」をお気に入りに追加しました"
+    },
+    "obj_mapping": {
+        "moment": "",
+        "video": "",
+        "topic": "",
+        "creation_post": "投稿",
+        "creation_comment": "コメント",
+        "commentary": "",
+        "gift": "",
+        "album_comment": "",
+        "album": "",
+        "moment_comment": "",
+        "video_comment": "",
+        "review_comment": "",
+        "review": "",
+        "post": ""
+    },
+    "up_merge_more_sender_name_text_plural": {
+        "other": ":firstと:second、その他:cot人"
+    },
+    "system_sender": {
+        "5": {
+            "goto": "",
+            "name": ""
+        },
+        "6": {
+            "name": "イベントアラート"
+        },
+        "7": {
+            "name": "クリエイターセンター"
+        },
+        "8": {
+            "name": "編集部チョイス"
+        }
+    },
+    "message": {
+        "send_need_follow": ""
+    },
+    "notice": {
+        "content": {
+            "mute": "",
+            "auto": "",
+            "must": ""
+        },
+        "label": {
+            "mute": "",
+            "auto": "",
+            "must": ""
+        }
+    }
+}

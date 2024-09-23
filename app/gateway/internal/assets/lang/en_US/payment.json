@@ -1,0 +1,16 @@
+{
+    "refund_apply": {
+        "label": {
+            "submitted": "Request Submitted",
+            "refunded": "Refunded",
+            "declined": "Request Declined",
+            "cancel": "Request Cancelled",
+            "awaiting": "Awaiting Developer Review",
+            "failed": "Refund Failed"
+        },
+        "text": {
+            "failed": "Something went wrong processing your refund. Please contact feedback@taptap.com for further assistance.",
+            "refunded": "Refund will be processed within 1-30 business days to the original payment method."
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "label": {
+        "games_new_releases": "新作",
+        "games_beta_test": "テスト"
+    },
+    "title": {
+        "rankings": "ランキング",
+        "hot_collections": "注目のコレクション",
+        "trending_posts": "人気の投稿",
+        "explore_gaming": "探索型ゲーム",
+        "games_you_may_like": "おすすめできそうなゲーム"
+    },
+    "tag": {
+        "all": "すべて"
+    }
+}

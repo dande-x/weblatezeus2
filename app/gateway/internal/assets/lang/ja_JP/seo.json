@@ -1,0 +1,23 @@
+{
+    "rankings": {
+        "android": {
+            "intl": {
+                "beta": {
+                    "keywords": "Androidのベータ版ゲームランキング（:area） - Androidおすすめベータ版ゲーム",
+                    "description": "Androidののベータ版「:area」ゲームランキングをお届けします。TapTapで人気のベータ版モバイルゲームを見つけましょう。",
+                    "title": "Androidのベータ版ゲームランキング（:area） - Androidおすすめ人気ゲーム &#124; TapTapランキング"
+                },
+                "weekly": {
+                    "description": "「:area」におけるAndroidゲームの週間ヒット作ランキングをお届けします。TapTapで人気のモバイルゲームを見つけましょう。",
+                    "keywords": "週間ヒット作ランキング（:area） - Androidおすすめ週間ヒット作",
+                    "title": "Android週間ヒット作ランキング（:area） - Androidおすすめ人気ゲーム &#124; TapTapランキング"
+                }
+            },
+            "exclusive": {
+                "title": "",
+                "keywords": "",
+                "description": ""
+            }
+        }
+    }
+}

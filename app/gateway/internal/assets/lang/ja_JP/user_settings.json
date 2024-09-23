@@ -1,0 +1,12 @@
+{
+    "notification_game_of_the_day": "今日のゲーム",
+    "notification_personalized_recommendations": "パーソナライズされたおすすめ",
+    "notification_played_to_review": {
+        "subtitle": "",
+        "title": ""
+    },
+    "notification_collect": {
+        "title": "誰かのお気に入りになったとき",
+        "subtitle": ""
+    }
+}

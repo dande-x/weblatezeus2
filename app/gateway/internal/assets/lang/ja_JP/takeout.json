@@ -1,0 +1,101 @@
+{
+    "link_text": "",
+    "uncollected": "",
+    "collected": "",
+    "device": {
+        "version": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "os": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "device": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "service": {
+        "collection": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "history": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "order": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "trade": {
+            "collected": "",
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "identity": {
+        "number": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "name": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    },
+    "profile": {
+        "region": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "birthday": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "gender": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "phone": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "social": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "avatar": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "nickname": {
+            "scene": "",
+            "purpose": "",
+            "title": ""
+        },
+        "title": ""
+    }
+}

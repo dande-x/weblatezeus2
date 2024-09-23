@@ -1,0 +1,12 @@
+{
+    "notification_collect": {
+        "title": "Saves",
+        "subtitle": ""
+    },
+    "notification_personalized_recommendations": "Personalized recommendations",
+    "notification_game_of_the_day": "Game of the Day",
+    "notification_played_to_review": {
+        "subtitle": "",
+        "title": ""
+    }
+}

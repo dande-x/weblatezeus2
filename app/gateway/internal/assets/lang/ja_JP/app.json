@@ -1,0 +1,95 @@
+{
+    "information": {
+        "platform": "プラットフォーム",
+        "released_date": "リリース日",
+        "unified_social_credit_identifier": "",
+        "developer_legal": ""
+    },
+    "stat": {
+        "downloads": "ダウンロード数",
+        "followers": "フォロワー数",
+        "hits": ""
+    },
+    "security_badge": {
+        "has_official": {
+            "label": "",
+            "description": ""
+        },
+        "privacy_compliance": {
+            "description": "",
+            "label": ""
+        },
+        "security": {
+            "no_vulnerability": "",
+            "no_virus": "",
+            "description": "",
+            "label": ""
+        },
+        "fast_login": {
+            "description": "",
+            "label": ""
+        },
+        "tap_certificate": {
+            "description": "",
+            "label": ""
+        }
+    },
+    "app_event": {
+        "gameplay_reveal": "内容公開",
+        "limited_time_free": "Free",
+        "showcase": "ショーケース",
+        "recruitment": "募集",
+        "limited_time_discount": "セール",
+        "gift_code": "プレゼント",
+        "event": "イベント",
+        "livestream": "ライブ配信",
+        "beta": "テスト",
+        "debut": "新着",
+        "update": "更新",
+        "reserve": "事前登録"
+    },
+    "env_type": {
+        "preview": "",
+        "beta": ""
+    },
+    "button_label": {
+        "pre_download": "",
+        "recruit_test": "",
+        "has_recruit": "",
+        "participate_test": "",
+        "device_not_supported": "",
+        "open_with_sandbox": "",
+        "open_with_cloud": "",
+        "play_booster": ""
+    },
+    "announcement_period": {
+        "alter": {
+            "content": "",
+            "title": ""
+        }
+    },
+    "accident": {
+        "label": ""
+    },
+    "reserve": {
+        "close_auto_download": ""
+    },
+    "library": {
+        "discovery": {
+            "status_paid": "",
+            "status_download": "",
+            "status_closed": "",
+            "unlimited": "",
+            "no_32bits_game_assistant": "",
+            "download_local": "",
+            "run_environment": "",
+            "apk_size": "",
+            "tap_feature": "",
+            "category": ""
+        }
+    },
+    "highlight": {
+        "no_purchase": "",
+        "no_ad": ""
+    }
+}

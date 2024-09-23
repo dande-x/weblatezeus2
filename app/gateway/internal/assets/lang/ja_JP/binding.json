@@ -1,0 +1,45 @@
+{
+    "field": {
+        "bundle_id": "",
+        "package_sign": "",
+        "package_name": "",
+        "contents": "",
+        "title": "",
+        "user_ids": ""
+    },
+    "eq": "",
+    "custom": {
+        "score": {
+            "required": ""
+        },
+        "wechat": {
+            "default": ""
+        },
+        "mobile": {
+            "required": "",
+            "default": ""
+        },
+        "title": {
+            "strict_required": "",
+            "required": ""
+        },
+        "contents": {
+            "strict_required": "",
+            "required": ""
+        }
+    },
+    "utf8_min": {
+        "string": ""
+    },
+    "utf8_max": {
+        "string": ""
+    },
+    "required_without": "",
+    "required": "",
+    "gt": {
+        "array": ""
+    },
+    "lt": {
+        "array": ""
+    }
+}

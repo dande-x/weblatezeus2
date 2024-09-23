@@ -1,0 +1,30 @@
+{
+    "item": {
+        "topic": "",
+        "video": "",
+        "craft": "",
+        "in_app_event": "",
+        "event": "",
+        "game": ""
+    },
+    "sentence": {
+        "dislike_topic": "",
+        "reduce_app": "",
+        "reduce_parkour": "",
+        "reduce_otome": "",
+        "reduce_puzzle": "",
+        "reduce_chess": "",
+        "dislike_author": "",
+        "reduce": "",
+        "reduce_reserve": "",
+        "reduce_word": "",
+        "reduce_casual": "",
+        "dislike_thriller": "",
+        "dislike_category": "",
+        "discomfort_content": "",
+        "discomfort": "",
+        "duplicate": "",
+        "dislike_video": "",
+        "dislike": ""
+    }
+}

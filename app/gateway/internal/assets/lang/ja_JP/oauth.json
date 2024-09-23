@@ -1,0 +1,33 @@
+{
+    "scope_intro": {
+        "basic_info": "",
+        "compliance": "",
+        "phone": "",
+        "email": "",
+        "user_idcard": "",
+        "user_friends_all": "",
+        "user_friends": "",
+        "public_profile": ""
+    },
+    "scope": {
+        "phone": "",
+        "basic_info": "",
+        "email": "",
+        "compliance": "",
+        "user_idcard": "",
+        "user_friends_all": "",
+        "user_friends": "",
+        "public_profile": ""
+    },
+    "login_from": {
+        "social_wechat": "",
+        "social_qq": "",
+        "social_naver": "",
+        "social_line": "",
+        "social_google": "",
+        "social_facebook": "",
+        "social_apple": "",
+        "authorization_code": "",
+        "password": ""
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "refund_apply": {
+        "label": {
+            "submitted": "申請済み",
+            "refunded": "返金済み",
+            "declined": "申請拒否",
+            "cancel": "申請取消",
+            "awaiting": "開発者レビュー待ち",
+            "failed": "返金失敗"
+        },
+        "text": {
+            "failed": "返金処理中に問題が発生しました。さらにサポートが必要な場合は、feedback@taptap.com にご連絡ください。",
+            "refunded": "返金は元の支払い方法に対して1-30営業日以内に処理されます。"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": {
+        "all_tags": "",
+        "tag_and_more": "",
+        "tag_and_tag": ""
+    },
+    "filter": {
+        "rating": "",
+        "editors_choice": "",
+        "platform": "",
+        "view_list": "",
+        "view_card": "",
+        "view": "",
+        "show_upcoming_beta": "",
+        "show_in_beta": "",
+        "show_top_wishlisted": "",
+        "show_all_upcoming": "",
+        "show_popular_upcoming": "",
+        "show_new_releases": "",
+        "show_popular_new_releases": "",
+        "show_most_popular": "",
+        "show_recommended": "",
+        "show": ""
+    },
+    "tab": {
+        "beta": "",
+        "new_releases": "",
+        "calendar": "",
+        "game_of_the_day": "",
+        "events": "",
+        "genres": "",
+        "trending": "",
+        "gamelist": "ゲームリスト",
+        "top_charts": "トップチャート",
+        "upcoming": "近日配信"
+    }
+}

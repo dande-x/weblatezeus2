@@ -1,0 +1,45 @@
+{
+    "field": {
+        "bundle_id": "",
+        "package_sign": "",
+        "package_name": "",
+        "contents": "contents",
+        "title": "title",
+        "user_ids": "User IDs"
+    },
+    "eq": "",
+    "custom": {
+        "score": {
+            "required": ""
+        },
+        "wechat": {
+            "default": ""
+        },
+        "mobile": {
+            "required": "",
+            "default": ""
+        },
+        "title": {
+            "strict_required": "Please Enter the Title",
+            "required": "Please Enter the Title"
+        },
+        "contents": {
+            "strict_required": "Submit After Writing Some Content",
+            "required": "Submit After Writing Some Content"
+        }
+    },
+    "utf8_max": {
+        "string": "The :field Cannot Exceed :param Characters"
+    },
+    "required_without": "When :param don't even exist, :field is required",
+    "required": "The :field is Required",
+    "utf8_min": {
+        "string": ""
+    },
+    "gt": {
+        "array": ""
+    },
+    "lt": {
+        "array": ""
+    }
+}
