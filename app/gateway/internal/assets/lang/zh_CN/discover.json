@@ -1,0 +1,37 @@
+{
+    "title": {
+        "all_tags": "全部标签",
+        "tag_and_tag": ":tag1、:tag2",
+        "tag_and_more": ":tag1、:tag2及另外:value个标签"
+    },
+    "filter": {
+        "rating": "评分",
+        "editors_choice": "编辑推荐",
+        "platform": "平台",
+        "view_list": "列表",
+        "view_card": "卡片",
+        "view": "视图",
+        "show_upcoming_beta": "即将开启的测试",
+        "show_in_beta": "测试中的游戏",
+        "show_top_wishlisted": "最热门愿望清单游戏",
+        "show_all_upcoming": "全部即将推出",
+        "show_popular_upcoming": "热门即将推出",
+        "show_new_releases": "全部新游",
+        "show_popular_new_releases": "热门新游",
+        "show_most_popular": "最受欢迎",
+        "show_recommended": "推荐",
+        "show": "显示"
+    },
+    "tab": {
+        "beta": "测试",
+        "new_releases": "最新上线",
+        "calendar": "游戏日历",
+        "game_of_the_day": "今日游戏",
+        "events": "活动",
+        "genres": "游戏类型",
+        "trending": "热门话题",
+        "gamelist": "游戏单",
+        "top_charts": "排行榜",
+        "upcoming": "即将推出"
+    }
+}

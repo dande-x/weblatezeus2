@@ -1,0 +1,5 @@
+{
+    "phrases": {
+        "page_view_count": "[0,9999]  :count 人浏览 |[10000,+Inf] :count人浏览"
+    }
+}

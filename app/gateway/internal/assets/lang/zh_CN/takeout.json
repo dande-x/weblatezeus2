@@ -1,0 +1,101 @@
+{
+    "link_text": "去查看",
+    "uncollected": "未收集",
+    "collected": "已收集",
+    "device": {
+        "version": {
+            "scene": "使用App过程中",
+            "purpose": "保障服务安全运行、保护账号安全",
+            "title": "产品版本号"
+        },
+        "os": {
+            "scene": "使用App过程中",
+            "purpose": "保障服务安全运行、保护账号安全",
+            "title": "操作系统"
+        },
+        "device": {
+            "scene": "使用App过程中",
+            "purpose": "保障服务安全运行、保护账号安全",
+            "title": "设备信息"
+        },
+        "title": "设备信息"
+    },
+    "service": {
+        "collection": {
+            "collected": "可在我-收藏中查看",
+            "scene": "添加和管理收藏夹",
+            "purpose": "提供用户收藏内容展示服务",
+            "title": "收藏记录"
+        },
+        "history": {
+            "collected": "可在我-浏览记录中查看",
+            "scene": "浏览商品或服务",
+            "purpose": "提供个性化推荐服务",
+            "title": "浏览记录"
+        },
+        "order": {
+            "collected": "可在我的游戏-预约中查看",
+            "scene": "预约游戏",
+            "purpose": "展示用户预约游戏、提供个性化推荐服务",
+            "title": "预约信息"
+        },
+        "trade": {
+            "collected": "可在我-订单中查看",
+            "scene": "购买商品或服务",
+            "purpose": "保障交易安全、提供售后及争议解决服务",
+            "title": "交易信息"
+        },
+        "title": "服务内容信息"
+    },
+    "identity": {
+        "number": {
+            "scene": "下载或购买游戏、发布动态内容",
+            "purpose": "进行实名认证",
+            "title": "身份证号"
+        },
+        "name": {
+            "scene": "下载或购买游戏、发布动态内容",
+            "purpose": "进行实名认证",
+            "title": "姓名"
+        },
+        "title": "用户身份信息"
+    },
+    "profile": {
+        "region": {
+            "scene": "修改个人资料",
+            "purpose": "用户自行完善设置",
+            "title": "地区"
+        },
+        "birthday": {
+            "scene": "修改个人资料",
+            "purpose": "用户自行完善设置",
+            "title": "生日"
+        },
+        "gender": {
+            "scene": "修改个人资料",
+            "purpose": "用户自行完善设置",
+            "title": "性别"
+        },
+        "phone": {
+            "scene": "创建账号、用户登录、修改账号绑定关系",
+            "purpose": "完成账号注册、保护账号安全",
+            "title": "手机号"
+        },
+        "social": {
+            "scene": "用户使用第三方平台账号登录、修改账号绑定关系",
+            "purpose": "快捷登录、保护账号安全",
+            "title": "第三方账号"
+        },
+        "avatar": {
+            "scene": "创建账号、修改个人资料",
+            "purpose": "完成账号注册",
+            "title": "头像"
+        },
+        "nickname": {
+            "scene": "创建账号、修改个人资料",
+            "purpose": "完成账号注册",
+            "title": "昵称"
+        },
+        "title": "用户资料信息"
+    }
+}

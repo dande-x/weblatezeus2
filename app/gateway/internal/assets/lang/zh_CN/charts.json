@@ -1,0 +1,11 @@
+{
+    "top": {
+        "rankings": {
+            "weekly": "本周必玩",
+            "exclusive": "独家榜"
+        },
+        "description": {
+            "exclusive": "按最近独家游戏关注度计算"
+        }
+    }
+}

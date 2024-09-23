@@ -1,0 +1,61 @@
+{
+    "client_region_mismatch": {
+        "message": "TapSDK: 应用配置地区不匹配。详见 ErrLog",
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。",
+        "reason": "此应用配置地区与其在 TapTap 开发者中心声明地区不匹配。"
+    },
+    "invalid_payment_secret_sign": {
+        "message": "请求签名错误。",
+        "resolution": "请检查支付密钥与签名算法是否正确，访问 TapTap 开发者中心可查看 Client 信息。",
+        "reason": "请求签名错误。"
+    },
+    "invalid_server_secret_sign": {
+        "message": "请求签名错误。",
+        "resolution": "请检查 Server Secret 与签名算法是否正确，访问 TapTap 开发者中心可查看 Client 信息。",
+        "reason": "请求签名错误。"
+    },
+    "invalid_client_token_sign": {
+        "message": "TapSDK: 网络签名错误。详见 ErrLog",
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。",
+        "reason": "Client Token 不正确或与 Client ID 不匹配。"
+    },
+    "invalid_secret": {
+        "message": "密钥错误。",
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。",
+        "reason": "密钥错误。"
+    },
+    "invalid_client_id": {
+        "message": "TapSDK: Client ID 不存在。详见 ErrLog",
+        "reason": "Client ID 不存在。",
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看 Client 信息。"
+    },
+    "invalid_app_bundle_id": {
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。",
+        "reason": "应用的 bundle ID 未在 TapTap 开发者中心正确配置。",
+        "message": "TapSDK: bundle ID 错误。详见 ErrLog"
+    },
+    "invalid_app_package_name_or_sign": {
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。",
+        "reason": "应用的包名（package name）、签名（certificate fingerprint）未在 TapTap 开发者中心正确配置。",
+        "message": "TapSDK: 包名、签名错误。详见 ErrLog"
+    },
+    "client_not_support_sdk_version": {
+        "message": "TapSDK: 当前应用仅支持 ≤3.X 版本 SDK。详见 ErrLog",
+        "resolution": "若希望使用此 SDK，请前往 TapTap 开发者中心，创建工单以联系技术支持协助处理。",
+        "reason": "当前应用仅支持 ≤ 3.X 版本 SDK，无法使用此版本 SDK。"
+    },
+    "description": {
+        "app_info": "当前应用信息如下：",
+        "reason": "此问题由以下原因导致：",
+        "title": "注意：TapSDK 未正确配置，无法使用 TapTap 开发者服务"
+    },
+    "invalid_app_info": {
+        "resolution": "请检查相关配置是否正确，访问 TapTap 开发者中心可查看、配置应用配置信息。",
+        "reason": "应用的包名（package name）、签名（certificate fingerprint）或 iOS bundle ID 未在 TapTap 开发者中心正确配置。"
+    },
+    "common": {
+        "app_info": "当前应用信息如下：",
+        "reason": "此问题由以下原因导致：",
+        "title": "注意：TapTap SDK 未正确配置，无法使用 TapTap 开发者服务"
+    }
+}
