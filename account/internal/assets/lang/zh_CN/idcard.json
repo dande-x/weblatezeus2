@@ -1,8 +1,0 @@
-{
-    "please_check_name_entered": "请检查输入的真实名字",
-    "please_check_id_number_entered": "输入信息有误",
-    "oversea_user_need_birthday": "海外用户必填出生年月日",
-    "not_match_issuing_region": "证件号码类型和发证地区不匹配",
-    "idcard_authentication_frequently_limit": "实名认证频率过高，请五分钟后操作",
-    "certification_bind_too_times_not_allow": "实名信息已达到绑定上限，无法再次绑定"
-}
