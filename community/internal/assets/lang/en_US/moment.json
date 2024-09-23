@@ -1,7 +1,0 @@
-{
-    "schedule_publish": {
-        "cannot_set_time_already_publish": "You cannot edit the published time for content that is already published.",
-        "cannot_cancel_already_publish": "You cannot cancel the schedule for content that has already been published.",
-        "time_min_limit": "This content can only be published 5 minutes after the current time."
-    }
-}
