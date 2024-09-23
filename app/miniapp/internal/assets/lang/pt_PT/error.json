@@ -1,0 +1,13 @@
+{
+    "develop_permission_required": "",
+    "miniapp_developer_already_exists": "",
+    "miniapp_developer_exceed_limit": "",
+    "invalid_version": "",
+    "invalid_session_code": "Código inválido",
+    "miniapp_not_found": "Miniaplicativo :id não encontrado",
+    "user_session_key_not_found": "Chave de sessão do usuário não encontrada",
+    "invalid_access_token": "access_token inválido ou expirado",
+    "invalid_openid": "openid inválido",
+    "internal": "Erro interno do servidor",
+    "unknown": "Erro desconhecido"
+}

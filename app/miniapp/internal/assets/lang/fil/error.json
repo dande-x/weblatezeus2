@@ -1,0 +1,13 @@
+{
+    "develop_permission_required": "",
+    "miniapp_developer_already_exists": "",
+    "miniapp_developer_exceed_limit": "",
+    "invalid_version": "",
+    "invalid_session_code": "",
+    "miniapp_not_found": "",
+    "user_session_key_not_found": "",
+    "invalid_access_token": "",
+    "invalid_openid": "",
+    "internal": "",
+    "unknown": ""
+}

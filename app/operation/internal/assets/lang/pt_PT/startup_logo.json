@@ -1,0 +1,7 @@
+{
+    "interface": {
+        "skip_title": "Pular %d",
+        "skip_ads_title": "Pular anúncio %d",
+        "uri_title": "Clique para ir para a página de detalhes"
+    }
+}

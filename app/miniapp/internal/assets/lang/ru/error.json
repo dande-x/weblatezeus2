@@ -1,0 +1,13 @@
+{
+    "develop_permission_required": "",
+    "miniapp_developer_already_exists": "",
+    "miniapp_developer_exceed_limit": "",
+    "invalid_version": "",
+    "invalid_session_code": "Недействительный код",
+    "miniapp_not_found": "Мини-приложение :id не найдено",
+    "user_session_key_not_found": "Ключ сессии пользователя не найден",
+    "invalid_access_token": "Недействительный или просроченный access_token",
+    "invalid_openid": "Недействительный openid",
+    "internal": "Внутренняя ошибка сервера",
+    "unknown": "Неизвестная ошибка"
+}

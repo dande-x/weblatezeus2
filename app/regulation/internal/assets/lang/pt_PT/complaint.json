@@ -1,0 +1,12 @@
+{
+    "resolve_type": {
+        "self_deleted": "Autoexclusão",
+        "silent      ": "Silenciar",
+        "hidden      ": "Ocultar",
+        "ignore      ": "Ignorar",
+        "collapsed   ": "Colapsar",
+        "delete      ": "Excluir",
+        "ban         ": "Bloquear",
+        "normal      ": "Processamento de revisão"
+    }
+}

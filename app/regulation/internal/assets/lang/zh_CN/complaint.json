@@ -1,0 +1,12 @@
+{
+    "resolve_type": {
+        "self_deleted": "自删除",
+        "silent      ": "禁言",
+        "hidden      ": "隐藏",
+        "ignore      ": "忽略",
+        "collapsed   ": "折叠",
+        "delete      ": "删除",
+        "ban         ": "屏蔽",
+        "normal      ": "审核处理"
+    }
+}
