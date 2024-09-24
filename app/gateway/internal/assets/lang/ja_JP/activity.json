@@ -1,6 +1,6 @@
 {
     "topic_lottery": {
-        "condition_invalid": "",
+        "condition_invalid": "参加条件が無効です",
         "condition_count_limit": ""
     },
     "safe_risk_msg": "",
