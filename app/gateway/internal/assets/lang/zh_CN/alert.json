@@ -8,6 +8,7 @@
     "button": {
         "upgrade": "升级最新版",
         "cancel": "取消",
-        "requeue": "重新排队"
+        "requeue": "重新排队",
+        "text":"测试"
     }
 }
