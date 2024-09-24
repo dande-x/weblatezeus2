@@ -1,6 +1,6 @@
 {
     "topic_lottery": {
-        "condition_invalid": "参与条件无效",
+        "condition_invalid": "参与条件无效1",
         "condition_count_limit": "条件数目不得超过:count个"
     },
     "safe_risk_msg": "安全校验中，请稍后参与活动",
