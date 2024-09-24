@@ -64,7 +64,6 @@
         "post": ""
     },
     "up_merge_more_sender_name_text_plural": {
-        "one": ":first, :second and :cot other",
         "other": ":first, :second and :cot others"
     },
     "message": {
